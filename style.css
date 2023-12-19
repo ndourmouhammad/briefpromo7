@@ -9,12 +9,7 @@ html {
 }
 body {
   margin: 0;
-  /* background: #fcfcfc; */
-  background: red;
-}
-
-h1 {
-  font-size: 22px;
+  background: #fcfcfc; 
 }
 
 *,

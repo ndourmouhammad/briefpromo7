@@ -9,7 +9,8 @@ html {
 }
 body {
   margin: 0;
-  background: #fcfcfc;
+  /* background: #fcfcfc; */
+  background-color: red;
 }
 
 *,
